@@ -32,7 +32,9 @@ class Inicio extends StatelessWidget {
           Card(
             child: Column(
               children: [
-                Image(image: NetworkImage('https://st3.depositphotos.com/2793495/31711/i/450/depositphotos_317119834-stock-photo-motorcycle-with-worker-at-the.jpg'))
+                Image(
+                    image: NetworkImage(
+                        'https://st3.depositphotos.com/2793495/31711/i/450/depositphotos_317119834-stock-photo-motorcycle-with-worker-at-the.jpg'))
               ],
             ),
           )
